@@ -2,7 +2,7 @@ test docs
 
 page link:  https://shamiulshifat.github.io
 
-helm repo index --url https://shamiulshifat.github.io/
+helm repo index --url https://shamiulshifat.github.io/miscs/ .
 
 helm repo add myrepo 
 
